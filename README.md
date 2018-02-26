@@ -82,4 +82,4 @@ The output will be 2.1458. Lastly we can also save our new dataframe in a .csv f
       # save our dataframe as a .csv 
       >> job_post_scores.to_csv("job_post_scores.csv")
       
-We can perform various commands for the bigquery datasets. You can check all the [Kernels](https://www.kaggle.com/nitsbat/kernels) i made using BigQuery in various datasets. The repository contains all the python codes i used to extract maximum information from Big datasets.  
+We can perform various commands for the bigquery datasets. You can check all the [Kernels](https://www.kaggle.com/nitsbat/kernels) i made using BigQuery in various datasets. The repository contains all the python codes i used to extract maximum information from Big datasets. The sequence of referring the codes will be Starting.py -> second.py -> Final.py
